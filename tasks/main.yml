@@ -1,0 +1,6 @@
+---
+- name: Install GoAccess
+  ansible.builtin.package:
+    name:
+      - goaccess
+    state: present
