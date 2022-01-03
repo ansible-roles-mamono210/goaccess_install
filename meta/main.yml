@@ -7,7 +7,7 @@ galaxy_info:
   galaxy_tags: []
   license: "license (BSD, MIT)"
   min_ansible_version: 5
-  role_name: mariadb_install
+  role_name: goaccess_install
   platforms:
     - name: EL
       versions:
