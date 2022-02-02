@@ -3,7 +3,7 @@
 Role Description
 =========
 
-Install [GoAccess](https://goaccess.io) for CentOS8.
+Install [GoAccess](https://goaccess.io) for CentOS Stream 8.
 
 Requirements
 ------------
