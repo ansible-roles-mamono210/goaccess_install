@@ -1,8 +1,8 @@
 ---
-- name: Converge
+- name: Prepare
   hosts: all
   become: true
   vars:
     ansible_user: ansible
   roles:
-    - goaccess_install
+    - mamono210.epel
